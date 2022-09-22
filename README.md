@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](./design/Screenshot%202022-09-22%20at%2013-50-56%20Frontend%20Mentor%20Order%20summary%20card.png)
+![Design preview for the Order summary card coding challenge](./design/Screenshot%202022-09-22%20at%2015-29-07%20Frontend%20Mentor%20Order%20summary%20card.png)
 
 ## Welcome! 👋
 
